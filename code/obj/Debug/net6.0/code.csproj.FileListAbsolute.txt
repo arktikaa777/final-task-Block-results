@@ -1,0 +1,16 @@
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\code.exe
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\code.deps.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\code.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\ref\code.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\bin\Debug\net6.0\code.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.GlobalUsings.g.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\ref\code.dll
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.pdb
+C:\Users\genya\Dropbox\My PC (DESKTOP-SBO8KNE)\Desktop\final task work\code\obj\Debug\net6.0\code.genruntimeconfig.cache
